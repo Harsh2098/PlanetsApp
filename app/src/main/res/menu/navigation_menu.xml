@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Mercury"
+        android:id="@+id/mercury_item"
+        android:icon="@mipmap/star_icon"/>
+
+    <item
+        android:id="@+id/venus_item"
+        android:title="Venus"
+        android:icon="@mipmap/ic_launcher"/>
+
+    <item
+        android:title="Earth"
+        android:id="@+id/earth_item"
+        android:icon="@mipmap/taxi_icon"/>
+
+    <item
+        android:id="@+id/mars_item"
+        android:title="Mars"
+        android:icon="@mipmap/mouse_icon"/>
+
+    <item
+        android:title="Jupiter"
+        android:id="@+id/jupiter_item"
+        android:icon="@mipmap/jupiter_icon"/>
+
+    <item
+        android:id="@+id/saturn_item"
+        android:title="Saturn"
+        android:icon="@mipmap/mountain_icon"/>
+
+</menu>

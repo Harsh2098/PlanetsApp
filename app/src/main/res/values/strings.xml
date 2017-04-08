@@ -1,0 +1,21 @@
+<resources>
+
+    <array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </array>
+
+    <string name="app_name">PlanetsDrawer</string>
+    <string name="planets_intro">PLANETS \n Welcome to my planets App !</string>
+    <string name="open">DrawerOpen</string>
+    <string name="close">DrawerClose</string>
+    <string name="email">harshmahajan20@yahoo.in</string>
+    <string name="solar_system">Solar System</string>
+</resources>
